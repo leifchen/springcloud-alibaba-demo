@@ -19,7 +19,7 @@ import javax.annotation.PreDestroy;
 @SpringBootApplication
 @RestController
 @RefreshScope
-public class App {
+public class NacosConfigApp {
 
     @Value("${user.name}")
     private String userName;
@@ -43,7 +43,7 @@ public class App {
     }
 
     public static void main(String[] args) {
-        SpringApplication.run(App.class, args);
+        SpringApplication.run(NacosConfigApp.class, args);
     }
 
 }
