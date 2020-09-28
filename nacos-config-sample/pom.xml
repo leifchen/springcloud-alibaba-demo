@@ -3,10 +3,10 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.chen</groupId>
-    <artifactId>springcloud-alibaba-demo</artifactId>
+    <artifactId>nacos-config-sample</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springcloud-alibaba-demo</name>
-    <description>Demo project for Spring Cloud Alibaba</description>
+    <name>nacos-config-sample</name>
+    <description>Demo project for Nacos Config</description>
 
     <properties>
         <java.version>1.8</java.version>

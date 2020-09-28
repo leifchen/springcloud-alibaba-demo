@@ -11,7 +11,7 @@ import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
 
 /**
- * 程序入口
+ * 分布式配置
  * <p>
  * @Author LeifChen
  * @Date 2020-09-27
