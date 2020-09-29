@@ -14,6 +14,7 @@
         <module>dubbo-api-sample</module>
         <module>dubbo-provider-sample</module>
         <module>dubbo-consumer-sample</module>
+        <module>sentinel-sample</module>
     </modules>
 
 </project>
