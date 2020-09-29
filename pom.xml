@@ -11,6 +11,9 @@
         <module>nacos-config-sample</module>
         <module>nacos-discovery-provider-sample</module>
         <module>nacos-discovery-consumer-sample</module>
+        <module>dubbo-api-sample</module>
+        <module>dubbo-provider-sample</module>
+        <module>dubbo-consumer-sample</module>
     </modules>
 
 </project>
